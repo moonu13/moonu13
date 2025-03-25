@@ -1,16 +1,17 @@
-## Hi there 👋
+# moonu13  
 
-<!--
-**moonu13/moonu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+moonu13 here. i make websites.  
 
-Here are some ideas to get you started:
+i do php. i do html. i do css. that's it.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i make websites work. i make websites look good. sometimes i break them. then i fix them.  
+
+i run littercat.shop. it's my site. i built it. i keep it running.  
+
+i don't do fancy stuff. just php, html, and css. nothing else.  
+
+if u see a website i made, it's clean. it's simple. it works.  
+
+that's all.
+
+if u wanna contact me => [littercat.shop](https://littercat.shop/contact)
