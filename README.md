@@ -14,4 +14,4 @@ if u see a website i made, it's clean. it's simple. it works.
 
 that's all.
 
-if u wanna contact me => [littercat.shop](https://littercat.shop/contact)
+if u wanna contact me => [littercat.shop](https://littercat.shop/) or a@sillylittlecat.club
